@@ -50,6 +50,7 @@ a:hover {
 
 .bloc-lg {
     padding: 100px 50px;
+    position: relative;
 }
 
 .bloc-md {
@@ -791,6 +792,7 @@ h4 {
 
 .tc-white {
     color: #FFFFFF !important;
+    text-align: center;
 }
 
 .btn-atomic-tangerine {
