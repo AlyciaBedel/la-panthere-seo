@@ -746,6 +746,14 @@ h4 {
     color: #333333 !important;
 }
 
+figcaption {
+    font-size: 16px;
+}
+
+.paragraph-blockquote {
+    font-size: 18px;
+}
+
 .icons {
     margin-bottom: 14px;
     margin-top: 24px;
