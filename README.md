@@ -17,9 +17,9 @@ L'agence La Panthère, est une grande agence de web design basée à Lyon. L’a
 L'agence souhaite connaître les parties du site qui ne sont pas pour le SEO et/ou qui ne sont pas à jour en termes d’accessibilité. Le but est que le site soit mieux classé lorsqu’on tape “Entreprise webdesign Lyon” dans les moteurs de recherche. Il faut améliorer la vitesse et la taille du site ainsi que son accessibilité. Actuellement, certains de leurs utilisateurs rencontrent des problèmes d’accessibilité sur leur site. Ensuite, on doit optimiser le site en appliquant les recommandations à son contenu et à son code source. Le site doit passer le W3C pour HTML et CSS. L'agence demande à comparer les résultats notamment la vitesse de chargement des pages du site.
 
 ## Rapport d'analyse SEO
-<a href="">Télécharger le rapport d'analyse SEO</a>
+<a href="https://github.com/AlyciaBedel/la-panthere-seo/files/10697517/Bedel_Alycia_1_rapport_analyse_122022.pdf">Télécharger le rapport d'analyse SEO</a>
 
 ## Rapport d'optimisation
-<a href="">Télécharger le rapport d'optimisation</a>
+<a href="https://github.com/AlyciaBedel/la-panthere-seo/files/10697520/Bedel_Alycia_4_rapport_optimisation_122022.pdf">Télécharger le rapport d'optimisation</a>
 
 
